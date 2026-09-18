@@ -143,3 +143,6 @@ Il progetto propone quattro stadi progressivi:
 
 Il repository nasce come architettura di riferimento aperta. Il primo obiettivo è realizzare un esempio completo, piccolo ma verificabile, che dimostri il collegamento tra tutti e sei gli strati.
 
+## Licenza
+
+Il progetto è distribuito con licenza [MIT](LICENSE). È possibile usare, copiare, modificare e distribuire i contenuti nel rispetto delle condizioni indicate nel file di licenza.
